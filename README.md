@@ -1,4 +1,4 @@
-# C-Sharp-Utils
+# C# Utils
 Methods for different processes in C#..
 
 # License
